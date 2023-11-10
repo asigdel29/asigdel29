@@ -15,9 +15,10 @@
 
 <details open>
   <summary><h3>❄️ Portfolio ❄️</h3></summary>
-  <p>Repo link: <a href="https://github.com/asigdel29/portfolio">https://github.com/asigdel29/portfolio</a></p>
   <p>Live Link: <a href="https://anubhavsigdel.vercel.app/">https://anubhavsigdel.vercel.app/</a></p>
 </details>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asigdel29&repo=portfolio)](https://github.com/asigdel29/portfolio)
 
 <details open>
   <summary><h3>✨ FARE ✨</h3></summary>
@@ -39,7 +40,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,go,py,scala,ocaml" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,py,scala,ocaml,clojure" />
   </a>
 </p>
 
@@ -53,15 +54,17 @@
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,nosql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb" />
   </a>
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,kubernetes,nginx,postman,tensorflow,pytorch,idea,linux,figma," />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,kubernetes,nginx,postman,tensorflow,pytorch,git,idea,linux,bash,figma," />
   </a>
 </p>
 
-<!-- Add any additional sections or content as needed -->
+<!--
+[![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=asigdel29)](https://github.com/asigdel29/github-readme-stats)
+ -->
