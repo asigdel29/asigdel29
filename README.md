@@ -25,7 +25,7 @@
   
   As the Product Owner and Developer of the FARE web application, I led and contributed to multiple facets of the project, including front-end and back-end development, quality assurance, deployment, and UI/UX design. This comprehensive application is designed to streamline freelance activities and relations on college campuses.
 
-  - **Roles**: Product Owner, Frontend Developer, Backend Developer, QA Engineer, Deployment Manager, UI/UX Designer.
+  - **Roles**: Product Owner, Frontend Developer, Backend Developer, QA Engineer, DevOps Engineer, UI/UX Designer.
   - **Frontend**: Developed in TypeScript using Framer for smooth transitions and Chakra UI for component styling, deployed on Vercel.
   - **Backend**: Implemented in Go, offering robust and scalable server-side operations, deployed on Google Cloud.
   - **Database**: Utilized MongoDB, ensuring efficient data management and retrieval.
