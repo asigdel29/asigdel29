@@ -10,10 +10,10 @@
   <a href="https://github.com/asigdel29">
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=Full-stack+Developer" /></a>
 </p>
-
+ <!--
 <details open>
 <summary><h3> ✨ FARE | Full-stack Web App | Capstone Project ✨ </h3></summary>
-
+-->
   <a href="https://github.com/The-Fare/fare-server"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
     </a>
   
@@ -23,10 +23,10 @@
 <details open>
   <summary><h3>❄️ Portfolio ❄️ </h3></summary>
 
- <!--
+
   <a href="https://github.com/asigdel29/portfolio"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
     </a>
--->
+
   
 </details>
 
