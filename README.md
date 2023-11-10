@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <a href="https://github.com/asigdel29">
   </a>
 </p>
@@ -18,8 +18,7 @@
   <p>Live Link: <a href="https://anubhavsigdel.vercel.app/">https://anubhavsigdel.vercel.app/</a></p>
 </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asigdel29&repo=portfolio)](https://github.com/asigdel29/portfolio)
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asigdel29&repo=portfolio&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/asigdel29/portfolio)
 <details open>
   <summary><h3>✨ FARE ✨</h3></summary>
   
@@ -68,3 +67,6 @@
 <!--
 [![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=asigdel29)](https://github.com/asigdel29/github-readme-stats)
  -->
+<p>
+  <img src="https://user-images.githubusercontent.com/66233296/214164389-3a835f90-25b1-4649-83f6-3cc29f30f927.png" alt="Dark mode recommended" />
+</p>
