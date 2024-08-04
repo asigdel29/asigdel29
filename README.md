@@ -11,8 +11,6 @@
   </h1>
 </p>
 
-📫 You can reach me at **sigdelanubhav@gmail.com**
-
 <details open>
   <summary><h3>❄️ Portfolio ❄️</h3></summary>
   <p>Live Link: <a href="https://anubhavsigdel.vercel.app/">https://anubhavsigdel.vercel.app/</a></p>
