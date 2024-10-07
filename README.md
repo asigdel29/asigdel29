@@ -14,7 +14,6 @@
 <details open>
   <summary><h3>❄️ Matrix-Themed Portfolio Template ❄️</h3></summary>
   This portfolio template is inspired by the Matrix's iconic terminal experience, offering a unique and immersive way to showcase your skills, projects, and accomplishments. With its retro-futuristic design, users can navigate your portfolio as if they are exploring a terminal interface, creating an interactive and engaging experience. Perfect for developers, tech enthusiasts, and fans of the Matrix, this template combines style and functionality to make your portfolio stand out.
-  <p>Live Demo: <a href="https://anubhavsigdel.vercel.app/">https://anubhavsigdel.vercel.app/</a></p>
 </details>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asigdel29&repo=matrixportfolio&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/asigdel29/matrixportfolio)
