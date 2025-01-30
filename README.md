@@ -12,20 +12,10 @@
 </p>
   <summary><h3>✨ Currently ✨</h3></summary>
   
-I am currently the co-founder of a stealth app where we are building a data privacy application focused on empowering individuals to protect their personal information in the digital world. Our mission is embodied in our motto: "The best privacy tools are the ones who know nothing about you."
+I’m currently building something in stealth mode, gonna launch it soon.
+Roles: Co-Founder, Full Stack Developer, Product Designer.
 
-- **Roles**: Co-Founder, Full Stack Developer, Product Designer.
-- **Frontend**: Developed with React and TypeScript, ensuring a seamless and intuitive user experience.
-- **Backend**: Powered by Go, providing a robust and secure server-side architecture.
-- **Database**: Utilized DynamoDB to manage user data with a focus on privacy and security.
-- **Cloud Infrastructure**: Hosted on AWS using Lambda for a serverless architecture, ensuring scalability and minimal exposure.
-
-**Project Highlights**:
-- Developed features that allow users to manage their digital footprint, request data removal from brokers, and discover privacy tools tailored to their needs.
-- Implemented a dashboard for users to monitor and control their online presence, focusing on reducing exposure to data breaches.
-- Designed and deployed privacy education resources to help users stay informed about the latest digital safety practices.
-
-Our app prioritizes user privacy by minimizing data collection and using cutting-edge encryption and security practices to protect our users' information.
+Alongside this, I’m working on programming for a robot arm (from Amazon) that can grab a vinyl record, open the sleeve, and play it on a turntable—all with a simple voice command. It’s retro meets robotics in the best way possible!
 
 </details>
 
