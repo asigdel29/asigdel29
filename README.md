@@ -13,6 +13,7 @@
   <summary><h3>✨ Currently ✨</h3></summary>
   
 I’m currently building something in stealth mode, gonna launch it soon.
+
 Roles: Co-Founder, Full Stack Developer, Product Designer.
 
 Alongside this, I’m working on programming for a robot arm (from Amazon) that can grab a vinyl record, open the sleeve, and play it on a turntable—all with a simple voice command. It’s retro meets robotics in the best way possible!
