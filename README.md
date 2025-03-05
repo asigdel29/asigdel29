@@ -6,17 +6,15 @@
 <p align="center">
   <h1 align="center">
     <a href="https://github.com/asigdel29">
-      <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=30&duration=2000&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B%2C+I'm+Anu;Founder+%40+Incognito;Software+Engineer+%7C+Cognitive+Scientist;" />
+      <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=30&duration=2000&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B%2C+I'm+Anu;Founder;Software+Engineer+%7C+Cognitive+Scientist;" />
     </a>
   </h1>
 </p>
   <summary><h3>✨ Currently ✨</h3></summary>
   
-I’m currently building something in stealth mode, gonna launch it soon.
+Building things that excite me
 
-Roles: Co-Founder, Full Stack Developer, Product Designer.
-
-Alongside this, I’m working on programming for a robot arm (from Amazon) that can grab a vinyl record, open the sleeve, and play it on a turntable—all with a simple voice command. It’s retro meets robotics in the best way possible!
+Alongside this, I also serve as an advisor to tech startups at the Pre-seed stage. 
 
 </details>
 
