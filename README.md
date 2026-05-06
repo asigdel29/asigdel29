@@ -7,7 +7,6 @@
 <h2 align="center"><strong>currently busy building <a href="https://getlora.com/">Lora</a></strong></h2>
 
 <p align="center">
-  <del><img src="https://img.shields.io/badge/Software%20Engineer-000?style=for-the-badge" /></del>
   <img src="https://img.shields.io/badge/Cognitive%20Scientist-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ML%20Engineer-FF6F00?style=for-the-badge" />
 </p>
