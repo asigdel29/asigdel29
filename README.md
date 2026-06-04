@@ -39,8 +39,8 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" />
   </a>
   <!-- Discord -->
-<a href="mailto:sigdelanubhav@gmail.com">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Gmail animated" />
+<a href="https://discordapp.com/users/689292821588344853" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Discord" />
 </a>
   <!-- X -->
 <a href="https://x.com/sigdel29" target="_blank">
