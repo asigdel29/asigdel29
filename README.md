@@ -20,11 +20,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400" />
 </div>
 
-<h3 align="center">Daily Affirmations</h3>
+<h3 align="center">Random thoughts I have daily</h3>
 <p align="center"><em>"Someday I fear AI will take all our jobs, today is not gonna be that day"</em></p>
-
-<h3 align="center">Question for you</h3>
-<p align="center"><em>"Have you ever cooked so hard with the code that you feel <b>you</b> are the next gen model?"</em></p>
+<p align="center"><em>"Sometimes I code by hand does that mean I can call myself an <b>artisan!"</b> </em></p>
 
 <h3 align="center">They call me</h3>
 <p align="center">
