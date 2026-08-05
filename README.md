@@ -24,7 +24,7 @@
 <p align="center"><em>"Someday I fear AI will take all our jobs, today is not gonna be that day"</em></p>
 <p align="center"><em>"Sometimes I code by hand does that mean I can call myself an <b>artisan!"</b> </em></p>
 
-<h3 align="center">They call me</h3>
+<h3 align="center">They also call me</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=30&duration=2200&pause=900&color=FF4D4D&center=true&vCenter=true&width=700&lines=MERGE+COP;One+bad+PR+and+I+appear;Review+with+care." alt="Merge Cop Typing SVG" />
 </p>
