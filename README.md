@@ -26,12 +26,22 @@
 <h3 align="center">Question for you</h3>
 <p align="center"><em>"Have you ever cooked so hard with the code that you feel <b>you</b> are the next gen model?"</em></p>
 
-<!-- ========== PROFILE SUMMARY CARD ========== -->
+<h3 align="center">They call me</h3>
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=30&duration=2200&pause=900&color=FF4D4D&center=true&vCenter=true&width=700&lines=MERGE+COP;One+bad+PR+and+I+appear;Review+with+care." alt="Merge Cop Typing SVG" />
+</p>
+
+<p align="center">
+  <sub>gentle in peace, terrifying in reviews</sub><br/>
+  <sub>submit the PR and step away slowly</sub><br/>
+</p>
+
+<!-- ========== PROFILE SUMMARY CARD ========== -->
+<!-- <p align="center">
+  <a href="https://github.com/vn7n24fzkqgithub-profile-summary-cards">
     <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asigdel29&theme=monokai" alt="Profile Summary Card" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <!-- LinkedIn -->
@@ -39,18 +49,14 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" />
   </a>
   <!-- Discord -->
-<a href="https://discordapp.com/users/689292821588344853" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Discord" />
-</a>
+  <a href="https://discordapp.com/users/689292821588344853" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Discord" />
+  </a>
   <!-- X -->
-<a href="https://x.com/sigdel29" target="_blank">
+  <a href="https://x.com/sigdel29" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60" alt="X" />
   </a>
-
-
-
 </p>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600" />
