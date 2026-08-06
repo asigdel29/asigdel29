@@ -26,7 +26,7 @@
 
 <h3 align="center">They also call me</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=30&duration=2200&pause=900&color=FF4D4D&center=true&vCenter=true&width=700&lines=MERGE+COP;One+bad+PR+and+I+appear;Review+with+care." alt="Merge Cop Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=30&duration=2200&pause=900&color=FF4D4D&center=true&vCenter=true&width=700&lines=MERGE+COP;MERGE+COP;MERGE+COP" alt="Merge Cop Typing SVG" />
 </p>
 
 <p align="center">
