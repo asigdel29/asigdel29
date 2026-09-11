@@ -34,6 +34,12 @@
   <sub>submit the PR and step away slowly</sub><br/>
 </p>
 
+<h3 align="center">slop cleanup contributions in the last year</h3>
+<p align="center"><sub>number of lines of slop code removed</sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asigdel29/asigdel29/output/slop-graph.svg" alt="Lines of code deleted per day over the last year" />
+</p>
+
 <!-- ========== PROFILE SUMMARY CARD ========== -->
 <!-- <p align="center">
   <a href="https://github.com/vn7n24fzkqgithub-profile-summary-cards">
