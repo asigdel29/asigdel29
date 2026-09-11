@@ -1,0 +1,25 @@
+name: slop graph
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/scripts/slop_graph.py
+        env:
+          GH_TOKEN: ${{ secrets.SLOP_GRAPH_TOKEN }}
+      # Force-push the SVG alone to an orphan `output` branch so main doesn't get a bot commit every day.
+      - run: |
+          git checkout --orphan output
+          git rm -rq --cached .
+          git add slop-graph.svg
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "Update slop graph"
+          git push -f origin output
